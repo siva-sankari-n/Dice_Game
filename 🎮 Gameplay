@@ -1,0 +1,9 @@
+Both the player and computer start with a score of 10.
+
+Each round:
+
+Both roll a die (random number from 1 to 6).
+
+Winner of the round loses 1 point, and the loser gains 1 point.
+
+The first to reach 0 points is the overall winner
